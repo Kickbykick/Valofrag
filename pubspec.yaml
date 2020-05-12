@@ -1,0 +1,301 @@
+name: valorant_helper
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+3
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_spinkit: "^4.1.1"
+  rxdart: ^0.23.1
+  dynamic_theme: ^1.0.1
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  shared_preferences: ^0.5.7
+  photo_view: ^0.9.2
+  cached_network_image: ^2.1.0+1
+  webview_flutter: ^0.3.21
+  flutter_launcher_icons: ^0.7.5
+  url_launcher: ^5.4.5
+  flutter_launcher_name: ^0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  image_path: "images/valorant_logo_rounded_edged.png"
+  ios: true
+  android: true
+
+flutter_launcher_name:
+  name: "Valofrag"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/valorant_logo_transparent.png
+    - images/valorant_logo_rounded_edged.png
+    
+    - json/agent_breach.json
+    - json/agent_cypher.json
+    - json/agent_brimstone.json
+    - json/agent_jett.json
+    - json/agent_sova.json
+    - json/agent_phoenix.json
+    - json/agent_raze.json
+    - json/agent_omen.json
+    - json/agent_sage.json
+    - json/agent_viper.json
+    - json/weapons.json
+
+    - images/map_bind.jpeg
+    - images/map_haven.jpeg
+    - images/map_split.jpeg
+
+    - images/bind_map_attack.png
+    - images/bind_map_defense.png
+    - images/haven_map_attack.png
+    - images/haven_map_defense.png
+    - images/split_map_attack.png
+    - images/split_map_defense.png
+
+    - images/ability_charge_1.png
+    - images/ability_charge_2.png
+    - images/ability_charge_3.png
+
+    - images/weapon_odin.jpg
+    - images/weapon_ares.jpg
+    - images/weapon_bulldog.jpg
+    - images/weapon_guardian.jpg
+    - images/weapon_phantom.jpg
+    - images/weapon_vandal.jpg
+    - images/weapon_bucky.jpg
+    - images/weapon_judge.jpg
+    - images/weapon_classic.jpg
+    - images/weapon_frenzy.jpg
+    - images/weapon_ghost.jpg
+    - images/weapon_sheriff.png
+    - images/weapon_shorty.jpg
+    - images/weapon_spectre.jpg
+    - images/weapon_stinger.jpg
+    - images/weapon_marshal.jpg
+    - images/weapon_operator.jpg
+    - images/weapon_tactical_knife.jpg
+    - images/weapon_heavy.jpg
+    - images/weapon_light.jpg
+    - images/weapon_heavy_white.png
+    - images/weapon_light_white.png
+
+    - images/agent_breach.jpg
+    - images/agent_cypher.jpg
+    - images/agent_brimstone.jpg
+    - images/agent_jett.jpg
+    - images/agent_sova.jpg
+    - images/agent_omen.jpg
+    - images/agent_phoenix.jpg
+    - images/agent_raze.jpg
+    - images/agent_sage.jpg
+    - images/agent_viper.jpg
+
+    - images/breach_ability_1.jpg
+    - images/breach_ability_2.jpg
+    - images/breach_ability_3.jpg
+    - images/breach_ability_ult.jpg
+
+    - images/cypher_ability_1.jpg
+    - images/cypher_ability_2.jpg
+    - images/cypher_ability_3.jpg
+    - images/cypher_ability_ult.jpg
+
+    - images/brimstone_ability_1.jpg
+    - images/brimstone_ability_2.jpg
+    - images/brimstone_ability_3.jpg
+    - images/brimstone_ability_ult.jpg
+
+    - images/jett_ability_1.jpg
+    - images/jett_ability_2.jpg
+    - images/jett_ability_3.jpg
+    - images/jett_ability_ult.jpg
+
+    - images/sova_ability_1.jpg
+    - images/sova_ability_2.jpg
+    - images/sova_ability_3.jpg
+    - images/sova_ability_ult.jpg
+
+    - images/omen_ability_1.jpg
+    - images/omen_ability_2.jpg
+    - images/omen_ability_3.jpg
+    - images/omen_ability_ult.jpg
+
+    - images/phoenix_ability_1.jpg
+    - images/phoenix_ability_2.jpg
+    - images/phoenix_ability_3.jpg
+    - images/phoenix_ability_ult.jpg
+
+    - images/raze_ability_1.jpg
+    - images/raze_ability_2.jpg
+    - images/raze_ability_3.jpg
+    - images/raze_ability_ult.jpg
+
+    - images/sage_ability_1.jpg
+    - images/sage_ability_2.jpg
+    - images/sage_ability_3.jpg
+    - images/sage_ability_ult.jpg
+
+    - images/viper_ability_1.jpg
+    - images/viper_ability_2.jpg
+    - images/viper_ability_3.jpg
+    - images/viper_ability_ult.jpg
+
+    - images/breach_ability_1_black.png
+    - images/breach_ability_2_black.png
+    - images/breach_ability_3_black.png
+    - images/breach_ability_ult_black.png
+
+    - images/cypher_ability_1_black.png
+    - images/cypher_ability_2_black.png
+    - images/cypher_ability_3_black.png
+    - images/cypher_ability_ult_black.png
+
+    - images/brimstone_ability_1_black.png
+    - images/brimstone_ability_2_black.png
+    - images/brimstone_ability_3_black.png
+    - images/brimstone_ability_ult_black.png
+
+    - images/jett_ability_1_black.png
+    - images/jett_ability_2_black.png
+    - images/jett_ability_3_black.png
+    - images/jett_ability_ult_black.png
+
+    - images/sova_ability_1_black.png
+    - images/sova_ability_2_black.png
+    - images/sova_ability_3_black.png
+    - images/sova_ability_ult_black.png
+
+    - images/omen_ability_1_black.png
+    - images/omen_ability_2_black.png
+    - images/omen_ability_3_black.png
+    - images/omen_ability_ult_black.png
+
+    - images/phoenix_ability_1_black.png
+    - images/phoenix_ability_2_black.png
+    - images/phoenix_ability_3_black.png
+    - images/phoenix_ability_ult_black.png
+
+    - images/raze_ability_1_black.png
+    - images/raze_ability_2_black.png
+    - images/raze_ability_3_black.png
+    - images/raze_ability_ult_black.png
+
+    - images/sage_ability_1_black.png
+    - images/sage_ability_2_black.png
+    - images/sage_ability_3_black.png
+    - images/sage_ability_ult_black.png
+
+    - images/viper_ability_1_black.png
+    - images/viper_ability_2_black.png
+    - images/viper_ability_3_black.png
+    - images/viper_ability_ult_black.png
+
+    - images/role_controller.png
+    - images/role_initiator.png
+    - images/role_duelist.png
+    - images/role_sentinel.png
+    - images/role_controller_white.png
+    - images/role_initiator_white.png
+    - images/role_duelist_white.png
+    - images/role_sentinel_white.png
+
+    - images/rank_bronze_1.png
+    - images/rank_bronze_2.png
+    - images/rank_bronze_3.png
+    - images/rank_diamond_1.png
+    - images/rank_diamond_2.png
+    - images/rank_diamond_3.png
+    - images/rank_gold_1.png
+    - images/rank_gold_2.png
+    - images/rank_gold_3.png
+    - images/rank_immortal_1.png
+    - images/rank_immortal_2.png
+    - images/rank_immortal_3.png
+    - images/rank_iron_1.png
+    - images/rank_iron_2.png
+    - images/rank_iron_3.png
+    - images/rank_platinum_1.png
+    - images/rank_platinum_2.png
+    - images/rank_platinum_3.png
+    - images/rank_valorant.png
+
+    - images/agent_jett_full.png
+    - images/agent_breach_full.png
+    - images/agent_cypher_full.png
+    - images/agent_brimstone_full.png
+    - images/agent_sova_full.png
+    - images/agent_omen_full.png
+    - images/agent_phoenix_full.png
+    - images/agent_raze_full.png
+    - images/agent_sage_full.png
+    - images/agent_viper_full.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: PistolGun
+      fonts:
+      - asset: fonts/PistolGun.ttf
+    - family:  WeaponDetailsIcons
+      fonts:
+      - asset: fonts/WeaponDetailsIcons.ttf
+    - family:  UtilityIcons
+      fonts:
+      - asset: fonts/UtilityIcons.ttf
+    - family: WeaponIcons
+      fonts:
+      - asset: fonts/WeaponIcons.ttf
+    - family: Morganite
+      fonts:
+        - asset: fonts/Morganite/Morganite-Black.ttf
+        - asset: fonts/Morganite/Morganite-BlackItalic.ttf
+          style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

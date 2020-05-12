@@ -1,0 +1,21 @@
+{
+    "agentName": "Viper",
+    "role": "Controller",
+    "agentDetail": "Viper deploys an array of poisonous chemical devices to control the battlefield and cripple the enemy’s vision. If the toxins don’t kill her prey, her mind games surely will.",
+    "ability1": "Equip a chemical launcher. Fire to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages and slows enemies.",
+    "ability2": "Equip a gas emitter. Fire to throw the emitter that perpetually remains throughout the round. Re-use the ability to create a toxic gas cloud at the cost of fuel. This ability can be re-used more than once and can be picked up to be redeployed.",
+    "signature": "Equip a gas emitter launcher. Fire to deploy a long line of gas emitters. Re-use the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be re-used more than once.",
+    "ultimate": "Equip a chemical sprayer. Fire to spray a chemical cloud in all directions around Viper, creating a large cloud that reduces the vision range and maximum health of players inside of it.",
+    "ability1Credit": 100,
+    "ability2Credit": 200,
+    "signature1Credit": 0,
+    "ultimate1Credit": 7,
+    "ability1Charges": 2,
+    "ability2Charges": 1,
+    "signature1Charges": 1,
+    "ultimate1Charges": 1,
+    "ability1Link": "https://media.giphy.com/media/lSajgWPR1PNfgwhJFx/giphy.gif",
+    "ability2Link": "https://media.giphy.com/media/Q5EjR5wpO3Gpgjg6KB/giphy.gif",
+    "signature1Link": "https://media.giphy.com/media/d8nYG4jTDy6EJ8AfWx/giphy.gif",
+    "ultimate1Link": "https://media.giphy.com/media/dWkn9FrvcN6TMhqVDc/giphy.gif"
+}

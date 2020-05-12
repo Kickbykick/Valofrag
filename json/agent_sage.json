@@ -1,0 +1,21 @@
+{
+    "agentName": "Sage",
+    "role": "Sentinel",
+    "agentDetail": "Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield.",
+    "ability1": "Equip a barrier orb. Fire places a solid wall. Alternate fire rotates the targeter.",
+    "ability2": "Equip a slowing orb. Fire to throw a slowing orb forward that detonates upon landing, creating a lingering field that slows and grounds players caught inside of it.",
+    "signature": "Equip a healing orb. Fire with your crosshairs over a damaged ally to activate a heal-over-time on them. Alternate fire while Sage is damaged to activate a self heal-over-time.",
+    "ultimate": "Equip a resurrection ability. Fire with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
+    "ability1Credit": 300,
+    "ability2Credit": 100,
+    "signature1Credit": 0,
+    "ultimate1Credit": 7,
+    "ability1Charges": 1,
+    "ability2Charges": 2,
+    "signature1Charges": 1,
+    "ultimate1Charges": 1,
+    "ability1Link": "https://media.giphy.com/media/KznOCgYyaWWyKZ9ZgL/giphy.gif",
+    "ability2Link": "https://media.giphy.com/media/cmZpwxQfN6TKqY62fb/giphy.gif",
+    "signature1Link": "https://media.giphy.com/media/Q5Wo9wpDrX7TeXefOA/giphy.gif",
+    "ultimate1Link": "https://media.giphy.com/media/LSKRu2xLfPliCOulCB/giphy.gif"
+}

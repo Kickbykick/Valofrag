@@ -1,0 +1,21 @@
+{
+    "agentName":"Brimstone",
+    "role": "Initiator",
+    "agentDetail": "Brimstone’s orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and safely make him the unmatched boots-on-the-ground commander.",
+    "ability1": "Equip a Stim Beacon. Fire to toss the stim beacon in front of Brimstone. Upon landing, the stim beacon will create a field that grants players Rapid Fire.",
+    "ability2": "Equip an Incendiary grenade launcher. Fire to launch a grenade that detonates as it comes to a rest on the floor, creating a lingering fire zone that damages players within the zone.",
+    "signature": "Equip a tactical map. Fire to set locations where Brimstone's smoke clouds will land. Alternate Fire to confirm, launching long-lasting smoke clouds that block vision in the selected area.",
+    "ultimate": "Equip a tactical map. Fire to launch a lingering orbital strike laser at the selected location dealing high damage over-time to players caught in the selected area.",
+    "ability1Credit": 100,
+    "ability2Credit": 200,
+    "signature1Credit": 0,
+    "ultimate1Credit": 6,
+    "ability1Charges": 1,
+    "ability2Charges": 1,
+    "signature1Charges": 3,
+    "ultimate1Charges": 1,
+    "ability1Link": "https://media.giphy.com/media/d7HQ5Sm2i5GmU4nmQ0/giphy.gif",
+    "ability2Link": "https://media.giphy.com/media/MELlyRNxiOSCRAQtzN/giphy.gif",
+    "signature1Link": "https://media.giphy.com/media/lRSLaOcpix60ZwgONW/giphy.gif",
+    "ultimate1Link": "https://media.giphy.com/media/Qs6YDRnz67RfNxP5BH/giphy.gif"
+}

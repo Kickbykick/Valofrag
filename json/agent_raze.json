@@ -1,0 +1,21 @@
+{
+    "agentName":"Raze",
+    "role": "Duelist",
+    "agentDetail": "Raze loves explosives. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of \"boom\".",
+    "ability1": "Equip a Boom Bot. Fire will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in it frontal cone and chase them, exploding for heavy damage if it reaches them.",
+    "ability2": "Equip a cluster grenade. Fire to throw the grenade, which does damage and creates sub-munitions, each doing damage to anyone in their range.",
+    "signature": "Instantly throw a Blast Pack that will stick to surfaces. Re-us the ability after deployment to detonate, damaging and moving anything hit. Raze isn't damaged by this ability, but will still take fall damage if launched up far enough.",
+    "ultimate": "Equip a single-use rocket launcher with the ability to one-shot enemies. Damage from this ability is consistent throughout the entire blast radius.",
+    "ability1Credit": 100,
+    "ability2Credit": 200,
+    "signature1Credit": 0,
+    "ultimate1Credit": 6,
+    "ability1Charges": 1,
+    "ability2Charges": 1,
+    "signature1Charges": 1,
+    "ultimate1Charges": 1,
+    "ability1Link": "https://media.giphy.com/media/LRZWDCdq7SqM1Ec3zL/giphy.gif",
+    "ability2Link": "https://media.giphy.com/media/YOH2X57jDG9SutFLcA/giphy.gif",
+    "signature1Link": "https://media.giphy.com/media/SUQwaIpUVV62RiYmib/giphy.gif",
+    "ultimate1Link": "https://media.giphy.com/media/SvL4WpPzsAVKHdBt22/giphy.gif"
+}

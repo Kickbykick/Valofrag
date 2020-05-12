@@ -1,0 +1,21 @@
+{
+    "agentName": "Omen",
+    "role": "Controller",
+    "agentDetail": "Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as foes scramble to uncover where it might strike next.",
+    "ability1": "Equip a shadow walk ability and see its range indicator. Fire to begin a brief channel, then teleport to the marked location.",
+    "ability2": "Instantly fire a shadow projectile forward, briefly reducing the vision range of all players it touches. This projectile can pass straight through walls.",
+    "signature": "Equip a shadow orb and see its range indicator. Fire to throw the shadow orb to the marked location, creating a long-lasting shadow sphere that blocks vision. Hold Alternate Fire while targeting to move the marker further away. Hold the ability key with targeting to move the market closer.",
+    "ultimate": "Equip a tactical map. Fire to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport.",
+    "ability1Credit": 100,
+    "ability2Credit": 200,
+    "signature1Credit": 0,
+    "ultimate1Credit": 7,
+    "ability1Charges": 2,
+    "ability2Charges": 1,
+    "signature1Charges": 2,
+    "ultimate1Charges": 1,
+    "ability1Link": "https://media.giphy.com/media/L3LJD98jQpJLW1bv7n/giphy.gif",
+    "ability2Link": "https://media.giphy.com/media/VIu1EjdUQdKKIDKpHt/giphy.gif",
+    "signature1Link": "https://media.giphy.com/media/iJPxuTm78jW0FcHbqs/giphy.gif",
+    "ultimate1Link": "https://media.giphy.com/media/ZCTcMiwwQckxL1ptEU/giphy.gif"
+}

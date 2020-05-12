@@ -1,0 +1,21 @@
+{
+    "agentName": "Jett",
+    "role": "Duelist",
+    "agentDetail": "Jett’s agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies up before they even know what hit them.",
+    "ability1": "Instantly throw a projectile that expands into a brief vision cloud on impact with a surface. Hold the ability key to curve the cloud in the direction of your crosshair.",
+    "ability2": "Instantly propel Jett high into the air.",
+    "signature": "Instantly propel Jett high into the air.",
+    "ultimate": "Equip a set of highly accurate throwing knives that recharge on an opponent. Fire to throw a single knife at your target. Alternative Fire to throw all remaining daggers at your target.",
+    "ability1Credit": 100,
+    "ability2Credit": 200,
+    "signature1Credit": 0,
+    "ultimate1Credit": 6,
+    "ability1Charges": 3,
+    "ability2Charges": 2,
+    "signature1Charges": 1,
+    "ultimate1Charges": 1,
+    "ability1Link": "https://media.giphy.com/media/IdUr3o948CmkW3Tehj/giphy.gif",
+    "ability2Link": "https://media.giphy.com/media/VDGa2s5Mw3WKKK6eVk/giphy.gif",
+    "signature1Link": "https://media.giphy.com/media/jSPIcTDOpgJ63hawPB/giphy.gif",
+    "ultimate1Link": "https://media.giphy.com/media/PlUEPkEqszNSzEQRfO/giphy.gif"
+}

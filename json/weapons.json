@@ -1,0 +1,77 @@
+{
+    "Tactical Knife": ["0", "N/A", "N/A", "N/A", "N/A", "images/weapon_tactical_knife.jpg", "Melee" ],
+
+    "Classic": ["0", "Semi-Auto / 3 Burst", "12", "6.75 / 2.22", "Low", "images/weapon_classic.jpg", "Sidearm", "No Armor", "Light Armor",
+        {"No Armor": ["0-30m", "78", "26", "22"]}, {"Light Armor": ["30-50m", "66", "22", "18"]}],
+    "ClassicDetails": [ {"No Armor": ["0-30m", "78", "26", "22"]}, {"Light Armor": ["30-50m", "66", "22", "18"]} ],
+
+    "Shorty": ["200", "Semi-Auto", "2", "3.3", "Low", "images/weapon_shorty.jpg", "Sidearm", "No Armor", "Light Armor", "Heavy Armor"
+        ],
+    "ShortyDetails": [ {"No Armor": ["0-9m", "78", "26", "22"]}, {"Light Armor": ["9-15m", "66", "22", "18"]}, {"Heavy Armor": ["0-9m", "9", "3", "2"]} ],
+
+    "Frenzy": ["400", "Full Auto", "13", "10", "Low", "images/weapon_frenzy.jpg", "Sidearm", "No Armor", "Light Armor"
+        ],
+    "FrenzyDetails": [ {"No Armor": ["0-20m", "78", "26", "22"]}, {"Light Armor": ["20-50m", "63", "21", "17"]} ],
+
+    "Ghost": ["500", "Sidearm", "15", "6.75", "Medium", "images/weapon_ghost.jpg", "Sidearm", "No Armor", "Light Armor"
+        ],
+    "GhostDetails": [ {"No Armor": ["0-30m", "105", "33", "26"]}, {"Light Armor": ["30-50m", "88", "25", "21"]}  ],
+
+    "Sheriff": ["800", "Semi-Auto", "6", "4", "High", "images/weapon_sheriff.png", "Sidearm", "No Armor", "Light Armor" 
+        ],
+    "SheriffDetails": [ {"No Armor": ["0-30m", "160", "55", "47"]}, {"Light Armor": ["30-50m", "145", "50", "43"]} ],
+
+    "Stinger": ["1000", "Full Auto / 4 Burst", "20", "18", "Low", "images/weapon_stinger.jpg", "Smg", "No Armor", "Light Armor"
+        ],
+    "StingerDetails": [ {"No Armor": ["0-20m", "67", "27", "23"]}, {"Light Armor": ["20-50m", "62", "25", "21"]} ],
+
+    "Spectre": ["1600", "Full Auto", "30", "13.33 / 22", "Medium", "images/weapon_spectre.jpg", "Smg", "No Armor", "Light Armor"
+        ],
+    "SpectreDetails": [ {"No Armor": ["0-20m", "78", "26", "22"]}, {"Light Armor": ["20-50m", "66", "22", "18"]} ],
+
+    "Bucky": ["900", "Semi-Auto / Air Burst", "8", "1.1 / 1.1", "Low", "images/weapon_bucky.jpg", "Shotgun", "No Armor", "Light Armor", "Heavy Armor"
+        ],
+    "BuckyDetails": [ {"No Armor": ["0-8m", "44", "22", "19"]}, {"Light Armor": ["8-12m", "66", "22", "18"]}, {"Heavy Armor": ["12-50m", "18", "9", "8"]} ],
+
+    "Judge": ["1500", "Semi-Auto", "7", "3.5", "Medium", "images/weapon_judge.jpg", "Shotgun", "No Armor", "Light Armor", "Heavy Armor"
+        ],
+    "JudgeDetails": [ {"No Armor": ["0-10m", "34", "17", "14"]}, {"Light Armor": ["10-15m", "26", "13", "11"]}, {"Heavy Armor": ["15-50m", "20", "10", "9"]} ],
+
+    "Bulldog": ["2100", "Full Auto / 3 Burst", "24", "9.15 / 4", "4", "images/weapon_bulldog.jpg", "Rifle", "No Armor"
+        ],
+    "BulldogDetails": [ {"No Armor": ["0-30m", "116", "35", "30"]} ],
+        
+    "Guardian": ["2700", "Semi-Auto", "12", "6.5 / 6.5", "Medium", "images/weapon_guardian.jpg", "Rifle", "No Armor"
+        ],
+    "GuardianDetails": [ {"No Armor": ["0-30m", "195", "65", "49"]} ],
+
+    "Phantom": ["2900", "Full Auto", "30", "11 / 9.9", "Medium", "images/weapon_phantom.jpg", "Rifle", "No Armor", "Light Armor", "Heavy Armor"
+       ],
+    "PhantomDetails": [  {"No Armor": ["0-15m", "156", "39", "33"]}, {"Light Armor": ["15-30m", "140", "35", "30"]}, {"Heavy Armor": ["30-50m", "124", "31", "16"]}],
+
+    "Vandal": ["2900", "Full Auto", "25", "9.25 / 8.32", "Medium", "images/weapon_vandal.jpg", "Rifle", "No Armor", "Light Armor", "Heavy Armor"
+        ],
+    "VandalDetails": [ {"No Armor": ["0-50m", "156", "39", "33"]}, {"Light Armor": ["0-50m", "156", "39", "33"]}, {"Heavy Armor": ["0-50m", "156", "39", "33"]} ],
+
+    "Marshal": ["1100", "Semi-Auto", "5", "1.5 / 1.2", "Medium", "images/weapon_marshal.jpg", "Sniper", "No Armor"
+        ],
+    "MarshalDetails": [ {"No Armor": ["0-30m", "202", "101", "85"]} ],
+
+    "Operator": ["4500", "Semi-Auto", "5", "0.75", "High", "images/weapon_operator.jpg", "Sniper", "No Armor"
+        ],
+    "OperatorDetails": [ {"No Armor": ["0-30m", "255", "150", "127"]} ],
+
+    "Ares": ["1700", "Full Auto", "50", "10-13", "High", "images/weapon_ares.jpg", "Heavy", "No Armor", "Light Armor"
+       ],
+    "AresDetails": [ {"No Armor": ["0-30m", "72", "30", "25"]}, {"Light Armor": ["30-50m", "67", "28", "23"]} ],
+
+    "Odin": ["3200", "Full Auto", "100", "12-15.6 / 15.6", "High", "images/weapon_odin.jpg", "Heavy", "No Armor", "Light Armor"
+        ],
+    "OdinDetails": [ {"No Armor": ["0-30m", "95", "38", "32"]}, {"Light Armor": ["30-50m", "66", "31", "26"]} ],
+
+    "Light Shield": ["400", "N/A", "N/A", "N/A", "N/A", "images/weapon_light.jpg", "Shield"
+        ],
+    
+    "Heavy Shield": ["1000", "N/A", "N/A", "N/A", "N/A", "images/weapon_heavy.jpg", "Shield"
+        ]
+}

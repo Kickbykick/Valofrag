@@ -1,0 +1,21 @@
+{
+    "agentName":"Cypher",
+    "role": "Sentinel",
+    "agentDetail": "Cypher is a one-man surveillance network who keeps tabs on the enemy’s every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.",
+    "ability1": "Equip a trapwire. Fire to place a destructible and covert tripware at the targeted location, creating a line that spans between the placed location and the wall opposite. Enemy players who cross a tripwire will be tethered, revealed, and dazed after a short period if they do not destroy the device in time. This ability can be picked up to be redeployed.",
+    "ability2": "Equip a cyber cage. Fire to toss the cyber cage in front of Cypher. Activate to create a zone that blocks vision and slows enemies who pass through it.",
+    "signature": "Equip a spycam. Fire to place the spycam at the targeted location. REUSE this ability to take control of the camera's view. While in control of the camera. Fire to shoot a marking dart. This dart will reveal the location of any player struck by the dart.",
+    "ultimate": "Instantly use on a dead enemy player in your crosshairs to reveal the location of all living enemy players.",
+    "ability1Credit": 200,
+    "ability2Credit": 100,
+    "signature1Credit": 0,
+    "ultimate1Credit": 7,
+    "ability1Charges": 2,
+    "ability2Charges": 2,
+    "signature1Charges": 1,
+    "ultimate1Charges": 1,
+    "ability1Link": "https://media.giphy.com/media/ZYEwMeCi0vYajfkG7D/giphy.gif",
+    "ability2Link": "https://media.giphy.com/media/j4qk9fzM6kM2QvcmYl/giphy.gif",
+    "signature1Link": "https://media.giphy.com/media/WocktH5UjzamgU5oMI/giphy.gif",
+    "ultimate1Link": "https://media.giphy.com/media/eHd2PvdWkBs4sIcZU4/giphy.gif"
+}
